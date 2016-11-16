@@ -3,6 +3,9 @@ h1 {
   text-align: center;
 }
 
+input{
+  width: 275px;
+}
 
 .converter {
   width: 50%;
@@ -10,7 +13,8 @@ h1 {
 }
 
 .convertBlock {
-  width: 25%;
+  width: 50%;
   margin: 0 auto;
   float:left;
+
 }
