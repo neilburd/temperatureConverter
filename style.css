@@ -1,3 +1,16 @@
 h1 {
   font-family: Helvetica, sans-saerif;
+  text-align: center;
+}
+
+
+.converter {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.convertBlock {
+  width: 25%;
+  margin: 0 auto;
+  float:left;
 }
